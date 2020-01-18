@@ -1,7 +1,7 @@
 /*
   KCMI Class Coder
 
-  Arduino Part 1
+  Arduino Part 1: Mengenal Arduino
 
   Latihan 2: 
   Buat agar led menyala lebih cepat dan mati lebih lama

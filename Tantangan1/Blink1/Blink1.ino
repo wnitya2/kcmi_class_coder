@@ -1,7 +1,7 @@
 /*
   KCMI Class Coder
 
-  Arduino Part 1
+  Arduino Part 1: Mengenal Arduino
 
   Latihan 1: 
   Modifikasi sketch blink sehingga led menyala blink dengan interval 0.5 sekon
